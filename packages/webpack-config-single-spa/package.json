@@ -1,9 +1,9 @@
 {
-  "name": "webpack-config-single-spa",
-  "version": "8.0.0",
+  "name": "@nickdeakin/webpack-config-single-spa",
+  "version": "9.0.0",
   "description": "A webpack config for in-browser modules used with single-spa",
   "author": "Joel Denning <joeldenning@gmail.com>",
-  "homepage": "https://github.com/single-spa/create-single-spa",
+  "homepage": "https://github.com/nickdeakin/create-single-spa",
   "license": "MIT",
   "main": "lib/webpack-config-single-spa.js",
   "directories": {
@@ -15,11 +15,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/single-spa/create-single-spa.git"
+    "url": "git+https://github.com/nickdeakin/create-single-spa.git"
   },
   "scripts": {},
   "bugs": {
-    "url": "https://github.com/single-spa/create-single-spa/issues"
+    "url": "https://github.com/nickdeakin/create-single-spa/issues"
   },
   "dependencies": {
     "babel-loader": "^8.2.5",

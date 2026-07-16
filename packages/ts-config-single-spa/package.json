@@ -1,6 +1,6 @@
 {
-  "name": "ts-config-single-spa",
-  "version": "3.0.0",
+  "name": "@nickdeakin/ts-config-single-spa",
+  "version": "4.0.0",
   "description": "typescript config for single-spa",
   "keywords": [
     "single-spa",
@@ -8,7 +8,7 @@
     "typescript"
   ],
   "author": "Joel Denning <joeldenning@gmail.com>",
-  "homepage": "https://github.com/single-spa/create-single-spa/tree/master/packages/ts-config-single-spa",
+  "homepage": "https://github.com/nickdeakin/create-single-spa/tree/master/packages/ts-config-single-spa",
   "license": "MIT",
   "main": "tsconfig.json",
   "directories": {
@@ -19,10 +19,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/single-spa/create-single-spa.git"
+    "url": "git+https://github.com/nickdeakin/create-single-spa.git"
   },
   "scripts": {},
   "bugs": {
-    "url": "https://github.com/single-spa/create-single-spa/issues"
+    "url": "https://github.com/nickdeakin/create-single-spa/issues"
   }
 }

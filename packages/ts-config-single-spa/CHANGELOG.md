@@ -1,5 +1,11 @@
 # ts-config-single-spa
 
+## 4.0.0
+
+### Major Changes
+
+- Forked from the main project
+
 ## 3.0.0
 
 ### Major Changes

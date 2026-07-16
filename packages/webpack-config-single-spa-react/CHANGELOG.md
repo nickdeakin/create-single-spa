@@ -1,5 +1,11 @@
 # webpack-config-single-spa-react
 
+## 9.0.0
+
+### Major Changes
+
+- Forked from the main project
+
 ## 8.0.0
 
 ### Patch Changes

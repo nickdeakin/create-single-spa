@@ -227,7 +227,7 @@ async function runFrameworkGenerator() {
       break;
     case "other":
       console.log(
-        `Check https://github.com/single-spa/create-single-spa/issues for updates on new frameworks being added to create-single-spa. Feel free to create a new issue if one does not yet exist for the framework you're using.`
+        `Check https://github.com/nickdeakin/create-single-spa/issues for updates on new frameworks being added to create-single-spa. Feel free to create a new issue if one does not yet exist for the framework you're using.`
       );
       break;
     default:

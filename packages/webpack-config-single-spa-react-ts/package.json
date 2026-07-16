@@ -1,6 +1,6 @@
 {
-  "name": "webpack-config-single-spa-react-ts",
-  "version": "8.0.0",
+  "name": "@nickdeakin/webpack-config-single-spa-react-ts",
+  "version": "9.0.0",
   "description": "Shareable webpack config for single-spa react projects that use typescript",
   "keywords": [
     "single-spa",
@@ -10,7 +10,7 @@
     "typescript"
   ],
   "author": "Joel Denning <joeldenning@gmail.com>",
-  "homepage": "https://github.com/single-spa/create-single-spa/tree/master/packages/webpack-config-single-spa-react-ts",
+  "homepage": "https://github.com/nickdeakin/create-single-spa/tree/master/packages/webpack-config-single-spa-react-ts",
   "license": "MIT",
   "main": "lib/webpack-config-single-spa-react-ts.js",
   "directories": {
@@ -21,13 +21,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/single-spa/create-single-spa.git"
+    "url": "git+https://github.com/nickdeakin/create-single-spa.git"
   },
   "scripts": {
     "test": "echo 'No tests yet'"
   },
   "bugs": {
-    "url": "https://github.com/single-spa/create-single-spa/issues"
+    "url": "https://github.com/nickdeakin/create-single-spa/issues"
   },
   "dependencies": {
     "webpack-config-single-spa-react": "workspace:*",

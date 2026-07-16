@@ -1,6 +1,6 @@
 {
-  "name": "webpack-config-single-spa-ts",
-  "version": "8.0.0",
+  "name": "@nickdeakin/webpack-config-single-spa-ts",
+  "version": "9.0.0",
   "description": "webpack-config for single-spa + typescript",
   "keywords": [
     "single-spa",
@@ -9,7 +9,7 @@
     "webpack"
   ],
   "author": "Joel Denning <joeldenning@gmail.com>",
-  "homepage": "https://github.com/single-spa/create-single-spa/tree/master/packages/webpack-config-single-spa-ts",
+  "homepage": "https://github.com/nickdeakin/create-single-spa/tree/master/packages/webpack-config-single-spa-ts",
   "license": "MIT",
   "main": "lib/webpack-config-single-spa-ts.js",
   "directories": {
@@ -20,13 +20,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/single-spa/create-single-spa.git"
+    "url": "git+https://github.com/nickdeakin/create-single-spa.git"
   },
   "scripts": {
     "test": "echo 'No tests yet'"
   },
   "bugs": {
-    "url": "https://github.com/single-spa/create-single-spa/issues"
+    "url": "https://github.com/nickdeakin/create-single-spa/issues"
   },
   "dependencies": {
     "fork-ts-checker-webpack-plugin": "^8.0.0",

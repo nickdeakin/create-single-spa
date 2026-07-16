@@ -1,6 +1,6 @@
 {
-  "name": "webpack-config-single-spa-react",
-  "version": "8.0.0",
+  "name": "@nickdeakin/webpack-config-single-spa-react",
+  "version": "9.0.0",
   "description": "A helper for creating webpack configs for react single-spa applications",
   "keywords": [
     "single-spa",
@@ -9,7 +9,7 @@
     "microfrontends"
   ],
   "author": "Joel Denning <joeldenning@gmail.com>",
-  "homepage": "https://github.com/single-spa/single-spa/packages/webpack-config-single-spa-react",
+  "homepage": "https://github.com/nickdeakin/single-spa/packages/webpack-config-single-spa-react",
   "license": "MIT",
   "main": "lib/webpack-config-single-spa-react.js",
   "directories": {
@@ -20,11 +20,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/single-spa/create-single-spa.git"
+    "url": "git+https://github.com/nickdeakin/create-single-spa.git"
   },
   "scripts": {},
   "bugs": {
-    "url": "https://github.com/single-spa/create-single-spa/issues"
+    "url": "https://github.com/nickdeakin/create-single-spa/issues"
   },
   "dependencies": {
     "webpack-config-single-spa": "workspace:*"

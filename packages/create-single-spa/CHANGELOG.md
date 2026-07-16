@@ -1,5 +1,11 @@
 # create-single-spa
 
+## 6.0.0
+
+### Major Changes
+
+- Forked from the main project
+
 ## 5.0.10
 
 ### Patch Changes

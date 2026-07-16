@@ -1,5 +1,11 @@
 # generator-single-spa
 
+## 9.0.0
+
+### Major Changes
+
+- Forked from the main project
+
 ## 8.0.1
 
 ### Patch Changes

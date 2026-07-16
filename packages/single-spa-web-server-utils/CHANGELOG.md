@@ -1,5 +1,11 @@
 # single-spa-web-server-utils
 
+## 4.0.0
+
+### Major Changes
+
+- Forked from the main project
+
 ## 3.0.0
 
 ### Major Changes

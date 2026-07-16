@@ -1,9 +1,9 @@
 {
-  "name": "single-spa-welcome",
-  "version": "3.0.1",
+  "name": "@nickdeakin/single-spa-welcome",
+  "version": "4.0.0",
   "description": "A welcome application to guide users with next steps after creating their first root config.",
   "author": "Single-spa core team",
-  "homepage": "https://github.com/single-spa/create-single-spa",
+  "homepage": "https://github.com/nickdeakin/create-single-spa",
   "license": "MIT",
   "main": "dist/single-spa-welcome.js",
   "files": [
@@ -11,10 +11,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/single-spa/create-single-spa.git"
+    "url": "git+https://github.com/nickdeakin/create-single-spa.git"
   },
   "bugs": {
-    "url": "https://github.com/single-spa/create-single-spa/issues/new?title=single-spa-welcome+error"
+    "url": "https://github.com/nickdeakin/create-single-spa/issues/new?title=single-spa-welcome+error"
   },
   "scripts": {
     "start": "webpack serve",

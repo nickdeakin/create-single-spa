@@ -1,6 +1,6 @@
 {
-  "name": "single-spa-web-server-utils",
-  "version": "3.0.0",
+  "name": "@nickdeakin/single-spa-web-server-utils",
+  "version": "4.0.0",
   "type": "module",
   "description": "Utility functions for single-spa's recommended setup",
   "keywords": [
@@ -22,13 +22,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/single-spa/create-single-spa.git"
+    "url": "git+https://github.com/nickdeakin/create-single-spa.git"
   },
   "scripts": {
     "test": "cross-env NODE_OPTIONS=--experimental-vm-modules jest"
   },
   "bugs": {
-    "url": "https://github.com/single-spa/create-single-spa/issues"
+    "url": "https://github.com/nickdeakin/create-single-spa/issues"
   },
   "dependencies": {
     "import-map-overrides": "^3.1.1",
